@@ -1,12 +1,4 @@
-Sherlock AI - Deepfake Detection System
-Sherlock AI is a machine learning-powered application designed to detect synthetic media, also known as deepfakes, in video and image content. With the rapid growth of AI-generated media, deepfakes have become an emerging challenge, posing risks to information integrity, security, and privacy. Sherlock AI provides a reliable, user-friendly solution for identifying deepfake content, contributing to safer digital spaces.
-
-Visit the project website: Sherlock AI
-
-
-Here’s the complete README file for Sherlock AI with your project website link included.
-
-Sherlock AI - Deepfake Detection System
+**Sherlock AI** - Deepfake Detection System
 Sherlock AI is a machine learning-powered application designed to detect synthetic media, also known as deepfakes, in video and image content. With the rapid growth of AI-generated media, deepfakes have become an emerging challenge, posing risks to information integrity, security, and privacy. Sherlock AI provides a reliable, user-friendly solution for identifying deepfake content, contributing to safer digital spaces.
 
 Visit the project website: Sherlock AI
